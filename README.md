@@ -8,5 +8,3 @@ Student at Skyline High School with projected graduation in 2025
 
 ## Projects for Term 2
 
-![title](https://www.betseybowen.com/img/pixel.gif)
-![title]([)](https://www.betseybowen.com/img/pixel.gif)
