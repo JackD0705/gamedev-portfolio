@@ -15,4 +15,5 @@ Student at Skyline High School with projected graduation in 2025
 
 ## [Shape Game](https://github.com/JackD0705/gamedev-portfolio/tree/main/src/ShapeGame/ShapeGame)
 * My first game that I worked on
+* Simple game where you try to move the shape around to different spots before the time runs out
 
