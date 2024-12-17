@@ -6,7 +6,7 @@ Student at Skyline High School with projected graduation in 2025
 * Typing at 73 wpm
 * Some experience in HTML and CSS
 
-## Projects for Term 1
+## Spotlight on Group Project
 
-## Projects for Term 2
+
 
