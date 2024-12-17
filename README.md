@@ -13,6 +13,6 @@ Student at Skyline High School with projected graduation in 2025
 * Coded the shooting animation of the monkeys and movement of bloons
 ## [Group Repository](https://github.com/9611154/GameDevTeam1)
 
-## [Shape Game]
+## [Shape Game](https://github.com/JackD0705/gamedev-portfolio/tree/main/src/ShapeGame/ShapeGame)
 * My first game that I worked on
 
