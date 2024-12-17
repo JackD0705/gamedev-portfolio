@@ -6,7 +6,7 @@ Student at Skyline High School with projected graduation in 2025
 * Typing at 73 wpm
 * Some experience in HTML and CSS
 
-## Spotlight on Group Project
+## [Spotlight on Group Project](https://github.com/9611154/GameDevTeam1)
 
 
 
